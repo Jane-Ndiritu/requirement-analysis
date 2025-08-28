@@ -38,4 +38,20 @@ To complete the tasks, learners must:
 * Review and approval to ensure accuracy and competence
 * Acceptance criteria to ensure they meet the expoected standards
 * Traceablity to ensure all requirements are addressed during development  and testing
-  
+## Types of Requirements.
+### Functional Requirements
+Its what the system should do, e.g user authentication, property search, booking system.
+#### Key functions
+1. search properties based on various creterias such as location, price etc
+2. User registration for new userswith personal details and login cridentials
+3. Property listing. Diapolay properties with essential details and images
+4. Booking system. One should be able to book view booking, view booking details and manage their bookings
+5. User authentication secure logins and registratuon process for users.
+### Non-functional Requirements
+Describes how the system should perform e.g performance security, scalability, usability, reliabilty.
+####
+1. Performance - the system should load pages within 2 seconds, handle up to 1000 concurrent users.
+2. Security - Ensure data encryption, secure login and protect against common vulnerabilities
+3. Scalability - Able to scale horizontally to hand inceeased traffic.
+4. Usability - Have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+5. Realiability - Systems should have an uptime of 99.99% and recovery quickly from any failures.
