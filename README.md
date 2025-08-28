@@ -8,3 +8,10 @@ To complete the tasks, learners must:
 4.Have experience with tools like Draw.io or equivalent for creating diagrams.
 5.Be able to conceptualize and articulate project requirements, use cases, and acceptance criteria.
 6.Access the case study for reference to the booking management system.
+## Why is Requirement Analysis Important?
+1.Real-world Application: The project emulates real-life software requirement analysis tasks to give learners hands-on experience with documentation and project planning.
+2.Comprehensive Documentation: Develop detailed explanations of key concepts like requirement gathering, functional vs. non-functional requirements, and use case diagrams.
+3.Visual Representations: Use diagrams to illustrate system actors and interactions for a clear and concise depiction of requirements.
+4.Practical Insights: Learn how to define acceptance criteria and their role in ensuring project success.
+5.Structured Learning Path: Each task builds on the previous one, reinforcing knowledge and application step-by-step.
+6.Professional Standards: Emphasis on industry-standard practices ensures readiness for advanced-level projects and client engagements.
