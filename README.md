@@ -55,3 +55,38 @@ Describes how the system should perform e.g performance security, scalability, u
 3. Scalability - Able to scale horizontally to hand inceeased traffic.
 4. Usability - Have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 5. Realiability - Systems should have an uptime of 99.99% and recovery quickly from any failures.
+
+#  Use Case Diagrams
+Its a visual representation of interactions between users and the system. Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+## Benefits of Use Case Diagrams:
+1. Provide a clear visual representation of system functionalities.
+2. Help in identifying and organizing system requirements.
+3. Facilitate communication among stakeholders and development team.
+### Actors
+1. Customer – initiates bookings.
+2. Admin – manages system settings and bookings.
+3. Payment Gateway – processes payments.
+4. Support Staff – handles customer issues.
+### Use Cases
+#### customer
+1. Register / Log in
+2. Search available services (e.g., flights, hotels, events)
+3. Make a booking
+4. Cancel booking
+5. Make payment
+6. View booking history
+#### admin
+1. Add / Update / Remove services
+2. Manage customer accounts
+3. View reports
+4. Manage bookings
+5. Payment Gateway
+6.Process payment
+Confirm transaction
+7. Support Staff
+Handle booking issues
+Respond to customer inquiries
+   ## Diagram Structure
+
+<img width="1002" height="941" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/98a59974-c59d-409b-b2e7-65c1a76533e6" />
+
