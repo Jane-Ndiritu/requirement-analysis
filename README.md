@@ -90,3 +90,11 @@ Respond to customer inquiries
 
 <img width="1002" height="941" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/98a59974-c59d-409b-b2e7-65c1a76533e6" />
 
+## Acceptance Criteria
+### Importance
+* Ensure all parties have a clear understanding of feature requirements.
+* Provide a basis for testing and validation.
+* Help in maintaining quality and meeting user expectations.
+#### Example
+The Checkout feature in a booking management system should allow customers to complete payments securely and receive confirmation of their bookings. It must handle successful transactions by processing payments and issuing booking references, while also managing errors such as invalid payment details, unavailable bookings, or payment gateway timeouts with clear messages and retry options. Additionally, upon successful checkout, the system should automatically send a confirmation email with booking details and a receipt, ensuring a smooth, transparent, and user-friendly experience.
+
